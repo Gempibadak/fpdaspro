@@ -5,11 +5,11 @@
  * Group Capstone Project: Snake and Ladder Game
  * -----------------------------------------------------
  * Class    : C
- * Group    : XX
+ * Group    : 6
  * Members  :
- * 1. Student ID - Full Name
- * 2. Student ID - Full Name
- * 3. Student ID - Full Name
+ * 1. 5026231033 - Ayu Alfia Putri
+ * 2. 5026231143 - Muhammad Ridho Utomo
+ * 3. 5026231208 - Alfan Ghofari Prasanna Firmansyah
  * ------------------------------------------------------
  */
 
